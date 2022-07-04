@@ -1,1 +1,1 @@
-# shopping-list
+# vanilla-todo
